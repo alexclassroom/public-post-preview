@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.1.1 (2026-06-16)
+## 3.1.1 / 3.1.2 (2026-06-16)
 * Fix hidden dynamic content added through the Block Bindings API. Props [@krokodok](https://github.com/krokodok).
 
 ## 3.1.0 (2026-03-01)
