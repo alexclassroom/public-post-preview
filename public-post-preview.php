@@ -11,6 +11,7 @@
  * Tested up to: 7.0
  * Requires PHP: 8.0
  * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  *
  * Previously (2009-2011) maintained by Jonathan Dingman and Matt Martz.
  *
