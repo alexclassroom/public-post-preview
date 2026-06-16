@@ -1,7 +1,7 @@
 === Public Post Preview ===
 Contributors: ocean90
 Tags: public, preview, posts, anonymous, drafts
-Stable tag: 3.1.0
+Stable tag: 3.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,7 +70,10 @@ function my_nonce_life() {
 
 == Changelog ==
 
-=  3.1.0 (2026-03-01): =
+= 3.1.1 (2026-06-16): =
+* Fix hidden dynamic content added through the Block Bindings API. Props [@krokodok](https://profiles.wordpress.org/krokodok/).
+
+= 3.1.0 (2026-03-01): =
 * Requires WordPress 6.6.
 * Compatibility with WordPress 7.0.
 * Add `ppp_show_public_preview` action for plugin extenders.

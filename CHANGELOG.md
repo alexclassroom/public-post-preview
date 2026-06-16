@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.1.1 (2026-06-16)
+* Fix hidden dynamic content added through the Block Bindings API. Props [@krokodok](https://github.com/krokodok).
+
 ## 3.1.0 (2026-03-01)
 * Requires WordPress 6.6.
 * Compatibility with WordPress 7.0.
